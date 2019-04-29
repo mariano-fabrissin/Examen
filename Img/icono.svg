@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#ff0000" font-family="serif" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(-12.2473 277.629 217.403) matrix(3.16667 0 0 4.03846 -360.039 -484.635)" x="201.342105" xml:space="preserve" y="181.985714">a</text>
+  <text fill="#007fff" font-family="serif" font-size="24" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="rotate(8.52569 351.785 219.805) matrix(2.14188 0 0 3.86735 -284.864 -567.106)" x="297.151552" xml:space="preserve" y="211.643972">m</text>
+  <text fill="#7f007f" font-family="serif" font-size="24" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(4.52941 0 0 6.08373 -328.706 -458.699)" x="141.058441" xml:space="preserve" y="119.894958">f</text>
+  <ellipse cx="311.5" cy="223.5" fill="#7f007f" id="svg_5" opacity="0.5" rx="102" ry="39" stroke="#000000" stroke-width="5"/>
+ </g>
+</svg>
